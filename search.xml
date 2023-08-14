@@ -5,8 +5,8 @@
     
     <entry>
       <title>图床上传测试</title>
-      <link href="/2023/08/14/%E4%B8%8A%E4%BC%A0%E5%9B%BE%E5%BA%8A/%E5%9B%BE%E5%BA%8A/"/>
-      <url>/2023/08/14/%E4%B8%8A%E4%BC%A0%E5%9B%BE%E5%BA%8A/%E5%9B%BE%E5%BA%8A/</url>
+      <link href="/posts/d25557ab/"/>
+      <url>/posts/d25557ab/</url>
       
         <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/leoneeec/picgoTu/main/img/20230814153625.png" alt="image-20230814150924889"></p><p>ok</p>]]></content>
       
@@ -24,10 +24,10 @@
     
     <entry>
       <title>代码块演示</title>
-      <link href="/2023/08/04/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E4%BB%A3%E7%A0%81%E5%9D%97/"/>
-      <url>/2023/08/04/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E4%BB%A3%E7%A0%81%E5%9D%97/</url>
+      <link href="/posts/d8d3d04e/"/>
+      <url>/posts/d8d3d04e/</url>
       
-        <content type="html"><![CDATA[<h2 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h2><p>dasd asd asd asd asd asd as<br>asd<br>as d<br>as<br>d as<br> d<br> as d</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>dasd asda s<br>d as<br>d<br> asd<br>  as<br>  d </p><p> das sad asd </p><h2 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h2><p> 萨达萨达是d阿萨das 大四</p><h1 id="打发打发asdfa发生发是"><a href="#打发打发asdfa发生发是" class="headerlink" title="打发打发asdfa发生发是"></a>打发打发asdfa发生发是</h1><p> 大苏打a是的<br> 阿萨的<br> as d阿萨d阿萨</p><p>你好</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span>(<span class="params"></span>)&#123;</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="/2023/08/04/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E4%BB%A3%E7%A0%81%E5%9D%97/jibini.png"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h2><p>dasd asd asd asd asd asd as<br>asd<br>as d<br>as<br>d as<br> d<br> as d</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>dasd asda s<br>d as<br>d<br> asd<br>  as<br>  d </p><p> das sad asd </p><h2 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h2><p> 萨达萨达是d阿萨das 大四</p><h1 id="打发打发asdfa发生发是"><a href="#打发打发asdfa发生发是" class="headerlink" title="打发打发asdfa发生发是"></a>打发打发asdfa发生发是</h1><p> 大苏打a是的<br> 阿萨的<br> as d阿萨d阿萨</p><p>你好</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span>(<span class="params"></span>)&#123;</span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)<span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello world&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="/posts/d8d3d04e/jibini.png"></p>]]></content>
       
       
       
@@ -37,10 +37,10 @@
     
     <entry>
       <title>花花快来看</title>
-      <link href="/2023/08/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/imgs/"/>
-      <url>/2023/08/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/imgs/</url>
+      <link href="/posts/27178a5f/"/>
+      <url>/posts/27178a5f/</url>
       
-        <content type="html"><![CDATA[<p>小熊的卷毛在干什么？？<br>上班摸鱼吃辣条是吧</p><p><img src="/2023/08/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/imgs/jibini.png" title="鸡哔你"><br><img src="/2023/08/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/imgs/jibini.png"></p>]]></content>
+        <content type="html"><![CDATA[<p>小熊的卷毛在干什么？？<br>上班摸鱼吃辣条是吧</p><p><img src="/posts/27178a5f/jibini.png" title="鸡哔你"><br><img src="/posts/27178a5f/jibini.png"></p>]]></content>
       
       
       
@@ -50,8 +50,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2023/08/02/hello-world/"/>
-      <url>/2023/08/02/hello-world/</url>
+      <link href="/posts/4a17b156/"/>
+      <url>/posts/4a17b156/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
